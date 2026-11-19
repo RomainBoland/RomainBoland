@@ -29,7 +29,6 @@ Trained at **42 Belgium**, a project-based, peer-reviewed school with no teacher
 ## 🎓 Education
 
 **42 Belgium (Campus 19)**, Oct. 2024 – Aug. 2026
-Common Core: [adjust to your real status, e.g. "all projects validated except ft_transcendence"].
 
 ## 📈 Next on my list
 
