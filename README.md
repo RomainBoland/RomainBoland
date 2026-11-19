@@ -1,50 +1,37 @@
-### Hi, I'm Romain 👋
- 
-C/C++ developer trained at **42 Belgium** (Campus 19) — a selective, project-based school with no teachers, where I recently completed the full common core. Career changer into tech after several years in high-end hospitality, where I picked up the kind of discipline and calm-under-pressure that turns out to be pretty useful when debugging at 2am.
- 
-Currently looking for an **internship or first junior developer role**.
- 
-- 🌍 Based in Brussels, Belgium
-- 🎓 42 Belgium — Common Core completed (Oct. 2024 – Aug. 2026)
-- 💬 French (native) · English (professional working proficiency)
-- 📫 [romain.boland@hotmail.com](mailto:romain.boland@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/romainboland)
----
- 
-### 🛠️ Stack
- 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
- 
-Comfortable picking up new languages and frameworks quickly — the 42 curriculum is built around exactly that.
- 
----
- 
-### 🚀 Featured projects
- 
-| Project | What it is |
+# Hi, I'm Romain 👋
+
+**Aspiring DevOps / Linux systems engineer**, based in Brussels.
+I build and break things in C, C++, Bash and Docker. I'm looking for a **junior or entry-level role (or internship) in DevOps, systems or infrastructure** in the Brussels area.
+
+Trained at **42 Belgium**, a project-based, peer-reviewed school with no teachers. Before tech, I spent 3 years as a *chef de rang* in hospitality, which taught me to stay calm under pressure, work in a tight team and take care of the people I serve.
+
+📍 Brussels, Belgium (open to a 1h30 commute)
+🗣️ French (native) · English (C1)
+📫 [your email] · [LinkedIn](LINK)
+
+## 🧰 Skills
+
+| Level | What |
 |---|---|
-| **ft_transcendence** | Team project — real-time full-stack web app (authentication, WebSockets, Docker), built with a full collaborative Git workflow (branches, commits, code reviews, issues). |
-| [**cub3d**](https://github.com/RomainBoland/cub3d) | 3D rendering engine written from scratch in C, using raycasting (inspired by Wolfenstein 3D). |
-| [**minishell**](https://github.com/RomainBoland/minishell) | A Unix shell interpreter in C — parsing, pipes, redirections, built-ins, process management. |
-| [**philosophers**](https://github.com/RomainBoland/philosophers) | Concurrency simulator in C — threads, mutexes, the dining philosophers problem. |
-| [**push_swap**](https://github.com/RomainBoland/push_swap) | Sorting/optimization algorithm, minimizing the number of operations on two stacks. |
-| **CPP Modules (CPP0–CPP9)** | Full C++ curriculum — OOP fundamentals, inheritance & polymorphism, exception handling & abstract classes, type casting, templates, STL. |
- 
-Also behind me: `Libft`, `ft_printf`, `Get_next_line`, `pipex`, `so_long`, `NetPractice` — the rest of the 42 common core.
- 
----
- 
-### 📊 GitHub stats
- 
-![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainBoland&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainBoland&layout=compact&hide_border=true)
- 
----
- 
-*Thanks for stopping by — feel free to connect on [LinkedIn](https://www.linkedin.com/in/romainboland) or reach out by [email](mailto:romain.boland@hotmail.com).*
+| **Solid** | C, C++, Linux, Bash, Git |
+| **Hands-on** | Docker & Docker Compose, Python, networking basics (TCP/IP, TLS) |
+| **Learning now** | CI/CD (GitHub Actions), monitoring, Ansible, cloud (AWS) |
+
+## 🚀 Projects
+
+| Project | What it shows |
+|---|---|
+| [**inception**](https://github.com/RomainBoland/inception) | A full Docker Compose stack built from scratch: NGINX with TLS → WordPress (PHP-FPM) → MariaDB. Docker secrets, idempotent first boot, documented Makefile. |
+| [**minishell**](https://github.com/RomainBoland/minishell) | A Unix shell in C, built in a pair: tokenizer, parser, pipes, redirections, heredocs, signals, built-ins, process management. |
+| [**philosophers**](https://github.com/RomainBoland/philosophers) | Concurrency in C: threads, mutexes, deadlock and race-condition avoidance. |
+| [**cub3d**](https://github.com/RomainBoland/cub3d) · [math explained](https://romainboland.github.io) | A raycasting 3D engine in C, plus an interactive page explaining the math behind it. |
+| [**cpp-modules**](LINK) | The C++ curriculum: OOP, polymorphism, templates, STL. |
+
+## 🎓 Education
+
+**42 Belgium (Campus 19)**, Oct. 2024 – Aug. 2026
+Common Core: [adjust to your real status, e.g. "all projects validated except ft_transcendence"].
+
+## 📈 Next on my list
+
+A CI pipeline for inception, a monitoring stack, and a service deployed end to end on a VPS.
