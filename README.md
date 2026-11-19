@@ -24,8 +24,7 @@ Trained at **42 Belgium**, a project-based, peer-reviewed school with no teacher
 | [**inception**](https://github.com/RomainBoland/inception) | A full Docker Compose stack built from scratch: NGINX with TLS → WordPress (PHP-FPM) → MariaDB. Docker secrets, idempotent first boot, documented Makefile. |
 | [**minishell**](https://github.com/RomainBoland/minishell) | A Unix shell in C, built in a pair: tokenizer, parser, pipes, redirections, heredocs, signals, built-ins, process management. |
 | [**philosophers**](https://github.com/RomainBoland/philosophers) | Concurrency in C: threads, mutexes, deadlock and race-condition avoidance. |
-| [**cub3d**](https://github.com/RomainBoland/cub3d) · [math explained](https://romainboland.github.io) | A raycasting 3D engine in C, plus an interactive page explaining the math behind it. |
-| [**cpp-modules**](LINK) | The C++ curriculum: OOP, polymorphism, templates, STL. |
+| [**cub3d**](https://github.com/RomainBoland/cub3d)) | A raycasting 3D engine in C, plus an interactive page explaining the math behind it. |
 
 ## 🎓 Education
 
