@@ -7,7 +7,7 @@ Trained at **42 Belgium**, a project-based, peer-reviewed school with no teacher
 
 📍 Brussels, Belgium (open to a 1h30 commute)
 🗣️ French (native) · English (C1)
-📫 [your email] · [LinkedIn](LINK)
+📫 romain.boland@hotmail.com · [www.linkedin.com/in/romainboland](LINK)
 
 ## 🧰 Skills
 
